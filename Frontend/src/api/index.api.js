@@ -1,7 +1,7 @@
 // src/api/api.js
 import axios from 'axios';
 
-const BASE_URL = "http://localhost:8080/api/tasks"; // your backend URL
+const BASE_URL = "https://todo-app-mern-oubb.onrender.com/api/tasks"; // your backend URL
 
 // API call function
 export const searchItems = async (query) => {//serarch api
