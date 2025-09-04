@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+@layer base {
+  :root {
+    --yw-primary: #9ECAD6;
+    --yw-nav: #74A8D4;
+    --yw-accent: #F5CBCB;
+    --yw-soft: #FFEAEE;
+    --yw-light-text: #ffffff;
+    --yw-dark-text: #2b2b2b;
+  }
+}
+
+@layer components {
+  .bg-ywPrimary {
+    @apply bg-[color:var(--yw-primary)];
+  }
+  .bg-ywNav {
+    @apply bg-[color:var(--yw-nav)];
+  }
+  .bg-ywAccent {
+    @apply bg-[color:var(--yw-accent)];
+  }
+  .bg-ywSoft {
+    @apply bg-[color:var(--yw-soft)];
+  }
+
+  .text-ywLightText {
+    @apply text-[color:var(--yw-light-text)];
+  }
+  .text-ywDarkText {
+    @apply text-[color:var(--yw-dark-text)];
+  }
+}

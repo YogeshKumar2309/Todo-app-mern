@@ -1,0 +1,232 @@
+[
+  {
+    "taskName": "Buy groceries",
+    "taskDate": "2025-07-24T07:09:49.928+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-24T07:09:49.931+00:00",
+    "updatedAt": "2025-07-24T07:09:49.931+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Call Mom",
+    "taskDate": "2025-07-25T08:15:30.123+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-25T08:15:30.125+00:00",
+    "updatedAt": "2025-07-25T08:15:30.125+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Finish React project",
+    "taskDate": "2025-07-26T09:30:12.456+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-26T09:30:12.459+00:00",
+    "updatedAt": "2025-07-26T09:30:12.459+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Water the plants",
+    "taskDate": "2025-07-27T11:05:18.789+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-27T11:05:18.791+00:00",
+    "updatedAt": "2025-07-27T11:05:18.791+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Clean the room",
+    "taskDate": "2025-07-28T13:20:45.321+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-28T13:20:45.324+00:00",
+    "updatedAt": "2025-07-28T13:20:45.324+00:00",
+    "__v": 0
+  },
+
+  {
+    "taskName": "Read 20 pages of a book",
+    "taskDate": "2025-07-29T15:45:30.512+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-29T15:45:30.515+00:00",
+    "updatedAt": "2025-07-29T15:45:30.515+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Go for a walk",
+    "taskDate": "2025-07-30T17:10:12.742+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-30T17:10:12.745+00:00",
+    "updatedAt": "2025-07-30T17:10:12.745+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Reply to emails",
+    "taskDate": "2025-07-31T09:25:18.654+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-07-31T09:25:18.656+00:00",
+    "updatedAt": "2025-07-31T09:25:18.656+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Study JavaScript",
+    "taskDate": "2025-08-01T14:40:55.198+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-01T14:40:55.201+00:00",
+    "updatedAt": "2025-08-01T14:40:55.201+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Pay electricity bill",
+    "taskDate": "2025-08-02T11:15:44.312+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-02T11:15:44.315+00:00",
+    "updatedAt": "2025-08-02T11:15:44.315+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Workout for 30 minutes",
+    "taskDate": "2025-08-03T16:35:22.981+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-03T16:35:22.984+00:00",
+    "updatedAt": "2025-08-03T16:35:22.984+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Organize workspace",
+    "taskDate": "2025-08-04T10:55:10.768+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-04T10:55:10.770+00:00",
+    "updatedAt": "2025-08-04T10:55:10.770+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Attend team meeting",
+    "taskDate": "2025-08-05T13:30:37.214+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-05T13:30:37.217+00:00",
+    "updatedAt": "2025-08-05T13:30:37.217+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Practice guitar",
+    "taskDate": "2025-08-06T18:20:15.641+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-06T18:20:15.644+00:00",
+    "updatedAt": "2025-08-06T18:20:15.644+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Learn 5 new English words",
+    "taskDate": "2025-08-07T09:50:05.397+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-07T09:50:05.400+00:00",
+    "updatedAt": "2025-08-07T09:50:05.400+00:00",
+    "__v": 0
+  },
+
+  {
+    "taskName": "Update resume",
+    "taskDate": "2025-08-08T11:20:00.520+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-08T11:20:00.523+00:00",
+    "updatedAt": "2025-08-08T11:20:00.523+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Fix portfolio bugs",
+    "taskDate": "2025-08-09T14:10:45.622+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-09T14:10:45.625+00:00",
+    "updatedAt": "2025-08-09T14:10:45.625+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Watch a tech tutorial",
+    "taskDate": "2025-08-10T16:55:30.178+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-10T16:55:30.181+00:00",
+    "updatedAt": "2025-08-10T16:55:30.181+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Write a blog post",
+    "taskDate": "2025-08-11T09:45:12.894+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-11T09:45:12.897+00:00",
+    "updatedAt": "2025-08-11T09:45:12.897+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Install Linux updates",
+    "taskDate": "2025-08-12T13:15:18.349+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-12T13:15:18.352+00:00",
+    "updatedAt": "2025-08-12T13:15:18.352+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Go to bank",
+    "taskDate": "2025-08-13T17:05:05.703+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-13T17:05:05.706+00:00",
+    "updatedAt": "2025-08-13T17:05:05.706+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Prepare dinner",
+    "taskDate": "2025-08-14T18:25:40.450+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-14T18:25:40.453+00:00",
+    "updatedAt": "2025-08-14T18:25:40.453+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Clean email inbox",
+    "taskDate": "2025-08-15T08:40:59.182+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-15T08:40:59.185+00:00",
+    "updatedAt": "2025-08-15T08:40:59.185+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Schedule doctor appointment",
+    "taskDate": "2025-08-16T12:20:25.941+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-16T12:20:25.944+00:00",
+    "updatedAt": "2025-08-16T12:20:25.944+00:00",
+    "__v": 0
+  },
+  {
+    "taskName": "Create a backup",
+    "taskDate": "2025-08-17T19:10:11.634+00:00",
+    "isDone": false,
+    "doneAt": null,
+    "createdAt": "2025-08-17T19:10:11.637+00:00",
+    "updatedAt": "2025-08-17T19:10:11.637+00:00",
+    "__v": 0
+  }
+
+
+
+]
